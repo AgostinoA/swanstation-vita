@@ -1,0 +1,6 @@
+Built at 2022-06-04 18:54:09
+newlib            53b8d55b21dc393f8170b40bae23941a748125e1
+pthread-embedded  3ad4d887b84e32a226d9dffa019e4c7b229da785
+samples           a4bd64274263e7edbb284f09940817d1cad464bf
+vita-headers      21009d25340c4c68684aee0a53f289b37ab35291
+vita-toolchain    ca16facc06034766bf24d5d358a1598579fe59a4
