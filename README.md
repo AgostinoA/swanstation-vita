@@ -1,4 +1,4 @@
-# SwanStation - PlayStation 1, aka. PSX Emulator
+# SwanStation for PSVTA - PlayStation 1, aka. PSX Emulator
 [Features](#features) | [System Requirements](#system-requirements) | [Disclaimers](#disclaimers)
 
 SwanStation is an open-source Libretro core implementation of DuckStation, which is an emulator of the Sony PlayStation(TM) console, focusing on playability, speed, and long-term maintainability. The goal is to be as accurate as possible while maintaining performance suitable for low-end devices. "Hack" options are discouraged, the default configuration should support all playable games with only some of the enhancements having compatibility issues.
